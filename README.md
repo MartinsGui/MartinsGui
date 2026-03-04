@@ -7,9 +7,6 @@
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/guilhermecmartins/">
   <img width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"/>
-
-  <a target="_blank" href="https://www.instagram.com/iugmartins/">
-  <img width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg/">
 </p>
   
 <br/>
